@@ -1,0 +1,56 @@
+{
+  "name": "@baldercm/sturdy-potato",
+  "version": "0.0.1",
+  "description": "NPM dependency tracking",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bluebird": "3.3.5",
+    "boolean": "0.1.0",
+    "coffee-script": "1.10.0",
+    "cors": "2.7.1",
+    "express": "4.13.4",
+    "hat": "0.0.3",
+    "kraken-js": "2.1.0",
+    "locale": "0.0.21",
+    "lodash": "4.11.1",
+    "mandrill-api": "1.0.45",
+    "moment": "2.13.0",
+    "moment-timezone": "0.5.3",
+    "mongoose": "4.4.12",
+    "mongoose-types": "1.0.3",
+    "morgan": "1.7.0",
+    "ms": "0.7.1",
+    "numeral": "1.5.3",
+    "passport": "0.3.2",
+    "passport-localapikey-update": "0.5.0",
+    "pine": "1.1.0",
+    "pushwoosh-client": "1.2.1",
+    "randomstring": "1.1.4",
+    "redis": "2.5.3",
+    "request-promise": "3.0.0",
+    "soap": "0.14.0",
+    "twilio": "2.9.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "chai-as-promised": "5.3.0",
+    "coveralls": "2.11.9",
+    "istanbul": "0.4.3",
+    "jshint": "2.9.2",
+    "mocha": "2.4.5",
+    "proxyquire": "1.7.4",
+    "sinon": "1.17.3",
+    "sinon-chai": "2.8.0",
+    "supertest": "1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldercm/sturdy-potato.git"
+  },
+  "author": {
+    "name": "Bálder Carraté",
+    "email": "baldercm@gmail.com"
+  },
+  "contributors": []
+}
