@@ -1,6 +1,6 @@
 {
   "name": "@baldercm/sturdy-potato",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NPM dependency tracking",
   "private": true,
   "license": "UNLICENSED",
